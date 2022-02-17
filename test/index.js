@@ -20,8 +20,8 @@ const rawEvent = {
 const eventData = {
 	messageType: 'DATA_MESSAGE'
 	, owner: '123456789012'
-	, logGroup: 'sampleGroup'
-	, logStream: 'testStream'
+	, logGroup: 'sampleGroup1'
+	, logStream: 'testStream1'
 	, subscriptionFilters: [ 'LambdaStream_cloudwatchlogs-node' ]
 	, logEvents: [{
 		id: '34622316099697884706540976068822859012661220141643892546'
